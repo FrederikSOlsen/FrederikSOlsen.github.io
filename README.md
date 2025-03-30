@@ -1,1 +1,0 @@
-# FrederikSOlsen.github.io
