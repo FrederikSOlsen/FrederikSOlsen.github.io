@@ -53,19 +53,3 @@ And the following attributes: Category,	PdDistrict,	Longitude,	Latitude,	TimeOfD
 [4] https://www.sf.gov/data--reducing-violent-crime-and-drug-sales-tenderloin\
 [5] https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/
 
-
-<!-- This visualization was created using data from the San Francisco Police Department's crime incident reports from 2003 to 2025. The analysis focused specifically on incidents categorized as "DRUGS" in the dataset.
-
-*Source: San Francisco Police Department Crime Data*
-
-
-<div class="interactive-viz">
-    <h2>Interactive Exploration of Drug Crimes by District</h2>
-    <p>Use the dropdown menu to highlight specific districts and hover over data points for detailed information.</p>
-    <iframe src="{{ site.baseurl }}/assets/interactive/drug_crimes_trend.html" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-
-
-
-**Figure 2**: *Analysis of time patterns in drug-related incidents.*
- -->
