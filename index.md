@@ -5,10 +5,10 @@ title: Decreasing drug-related crime in San Francisco and its Resurgence
 
 ## Decreasing drug-related crime in San Francisco and its Resurgence
 
-San Francisco has in recent years seen a spike in crime related to drugs and narcotics after the covid 19 pandemic. Many factors can contribute to increased crime such as mental ilness, homelessness and economic downturn causing low prospective outlook on the future are a couple of reasons why people are drawn to drugs to escape their daily struggles and get a brief respite from everything around them. The crimerate related drugs had been steadly been decreasing since the financial crisis that hit the US in 2007-2009 along with changing laws around cannibis with proposition 64 in 2016 reducing the crime from a felony to a misdemeanor leading to less reported crime involving this popular drug [1]. 
+San Francisco has in recent years seen a spike in crime related to drugs and narcotics after the covid 19 pandemic. Many factors can contribute to increased crime such as mental illness, homelessness and Economic downturn, along with a low prospective outlook on the future, are a couple of reasons why people turn to drugs to escape their daily struggles and get a brief respite from everything around them. The crime rate related to drugs had been steadily decreasing since the financial crisis that hit the US in 2007-2009 along with changing laws around cannabis with proposition 64 in 2016 reducing the crime from a felony to a misdemeanor leading to less reported crime involving this popular drug [1]. 
 ## Trends in Drug-Related Crime from 2003 to early 2025
 
-Looking at the drug and narcotics incidents over the years from 2003 to 2025 below we see that there has been a steady decreasing trend ending at the after the pandemic with an resurgence of crime but what are the causes behind this? Let us start by looking back. 
+Looking at the drug and narcotics incidents over the years from 2003 to 2025 below we see that there has been a steady decreasing trend ending after the pandemic with a resurgence of crime but what are the causes behind this? 
 <div class="interactive-viz">
     <!-- <h3>Interactive Exploration of Drug Crimes by District</h3> -->
     <p>Use the dropdown menu to highlight specific districts and hover over data points for detailed information.</p>
@@ -17,9 +17,9 @@ Looking at the drug and narcotics incidents over the years from 2003 to 2025 bel
 
 **Figure 1**: *Trend of drug/narcotics related crime from each district. The plot is interactive so each police district can be viewed independently, and the average trend across all the district is toggable.*
 
-The effects of the financial crisis in 2007-2008 caused a significant increase in homelessness and drug usage in San Francisco due to the economic turmoil the effect of this is clearly visible in the graph. The after effects of the financial crisis resulted in a steady decrease in drug crimerate that decreased year after year until it halted and reversed by the covid pandemic. During the pandemic the good folk in San Francisco were forced to work from home due to the "Stay Home order" on March 17th 2020 and did not fully cease until the 15th of june 2021. [2]\  
-So how did drug and narcotic crime increase if everyone was at home where policing would be difficult?\
-An answer might lie in the feeling of hopelessness and isolation felt during the period with decreased contact with friends and family and an overall uncertain future driving people to escape from their troubles. This could have lead people to seek out drugs when venturing out to get their groceries which were one of the allowed reasons to break lockdown. Below is an interactive heatmap that shows the time period and locations of reported drug crimes during the lockdown.
+The effects of the financial crisis in 2007-2008 caused a significant increase in homelessness and drug usage in San Francisco due to the economic turmoil the effect of this is clearly visible in the graph. The after effects of the financial crisis resulted in a steady decrease in drug-related crime rate that decreased year after year until it halted and reversed due to the COVID-19 pandemic. During the pandemic the residents of San Francisco were forced to work from home due to the "Stay Home order" on March 17th 2020 and did not fully cease until the 15th of june 2021. [2]\  
+How did drug-related crimes increase if people were confined to their homes, making policing more challenging?\
+An answer might lie in the feeling of hopelessness and isolation felt during the period with decreased contact with friends and family and an overall uncertain future driving people to escape from their troubles. This could have led people to seek out drugs when venturing out to get their groceries which were one of the allowed reasons to break lockdown. Below is an interactive heatmap that shows the time period and locations of reported drug crimes during the lockdown.
 
 <div class="interactive-viz">
     <iframe src="{{ site.baseurl }}/assets/interactive/drug_crime_heatmap.html" width="100%" height="600px" frameborder="0"></iframe>
@@ -27,9 +27,9 @@ An answer might lie in the feeling of hopelessness and isolation felt during the
 
 **Figure 2**: *Interactive heatmap of San Francisco during the Covid 19 Stay Home Order from March 17th 2020 to June 15th 2021*
 
-The tenderloin district has long been the biggest problem area in the bay area with homelessness and drug-selling contributing to its reputation. During the covid pandemic a growing number of drug overdoses led the city to declare emergency with the hope of combatting the problem with crackdowns starting december 2021 [3][4]. The result of crackdown is visible in the figure below from 2021 and onwards with increasing crimerate. \
-Due to the crackdown there would inevitable be a rise in the crimerate due to more incidents getting reported leading to spikes in crimes reported and could be the answer to why the crimerate has reversed the decreasing trend. 
-The true amount of drugs circulating the San Francisco could have been a powderkeg with the overdose epidemic being the catalyst that reversed the trend of the an otherwise positive outlook from the overall trend. 
+The Tenderloin district has long been the biggest problem area in the bay area with homelessness and drug-selling contributing to its reputation. During the COVID-19 pandemic, a growing number of drug overdoses led the city to declare a state of emergency with the hope of combatting the problem with crackdowns starting december 2021 [3][4]. The result of crackdown is visible in the figure below from 2021 and onwards with increasing crimerate. \
+"Due to the crackdown, an inevitable rise in the crime rate occurred due to more incidents getting reported leading to spikes in reported crimes, which could explain why the crime rate reversed its decreasing trend. 
+The true extent of drug circulation in San Francisco could have been a powder keg with the overdose epidemic being the catalyst that reversed the otherwise positive overall trend. 
 
 <img src="{{ site.baseurl }}/assets/graphs/occurances_pandemic.png" 
      alt="Drug related crimerate during covid pandemic and onwards" 
@@ -38,12 +38,12 @@ The true amount of drugs circulating the San Francisco could have been a powderk
 
 **Figure 3**: *Crimerate in San Francisco for occurances from 2020 to 2024 for each month*
 
-The moral of the story is that the absence of reported crimes does not mean crimes are not occurring. Likewise, if we stop counting covid cases, it does not mean the illness is disappearing.
-Tackling the situation instead of letting is fester can give an appearence of increased drug crime but you have to tackle it nontheless for the things to get better. 
+The moral of the story is that the absence of reported crimes does not mean crimes are not occurring. Likewise, if we stop counting COVID-19 cases, it does not mean the illness is disappearing.
+TTackling the situation instead of letting it fester can give the appearance of increased drug crime but it must be addressed nonetheless for things to improve.
 
 
 ## Data
-San Francisco was chosen for its openness in sharing crime data, allowing researchers and data scientists to explore patterns that could benefit society. 
+San Francisco was chosen for its openness in sharing crime data, allowing researchers and data scientists to explore patterns that could benefit society such as predictive policing. 
 The dataset spans from 2003 to Q1 2025 and contains 1,702,398 datapoints. \
 It includes the following crime categories: ROBBERY, VEHICLE THEFT, ASSAULT, BURGLARY, LARCENY/THEFT, DRUG/NARCOTIC, VANDALISM, WEAPON LAWS, PROSTITUTION, and STOLEN PROPERTY.\
 And the following attributes: Category,	PdDistrict,	Longitude,	Latitude,	TimeOfDay,	DayOfWeek,	DayOfMonth,	Month	Year.
