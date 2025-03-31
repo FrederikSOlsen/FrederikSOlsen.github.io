@@ -50,7 +50,7 @@ And the following attributes: Category,	PdDistrict,	Longitude,	Latitude,	TimeOfD
 [1] https://sfpublicdefender.org/services/prop-64-faq/\
 [2] https://www.pbs.org/newshour/nation/california-fully-reopens-after-being-1st-to-shut-in-pandemic  
 [3] https://sfmayor.org/article/mayor-london-breed-declares-state-emergency-tenderloin\
-[4] https://www.sf.gov/data--reducing-violent-crime-and-drug-sales-tenderloin
+[4] https://www.sf.gov/data--reducing-violent-crime-and-drug-sales-tenderloin\
 [5] https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/
 
 
