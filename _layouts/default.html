@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <style>
+    /* Simple, clean styling for a magazine-style layout */
+    body {
+      font-family: 'Georgia', serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    h1, h2, h3, h4 {
+      font-family: 'Helvetica', 'Arial', sans-serif;
+      margin-top: 1.5em;
+    }
+    
+    h1 {
+      font-size: 2.2em;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 0.3em;
+    }
+    
+    h2 {
+      font-size: 1.8em;
+      color: #444;
+    }
+    
+    .subtitle {
+      font-style: italic;
+      font-size: 1.2em;
+      color: #666;
+      margin-top: -0.5em;
+    }
+    
+    .full-width-image {
+      width: 100%;
+      max-width: 900px;
+      height: auto;
+      border-radius: 5px;
+    }
+    
+    figcaption {
+      font-size: 0.9em;
+      color: #666;
+      font-style: italic;
+      margin-top: 0.5em;
+    }
+    
+    .interactive-viz {
+      background-color: #f8f8f8;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 20px 0;
+      border: 1px solid #eee;
+    }
+    
+    .policy-point {
+      margin-bottom: 1.5em;
+      padding-left: 1em;
+      border-left: 3px solid #cce;
+    }
+    
+    footer {
+      margin-top: 3em;
+      padding-top: 1em;
+      border-top: 1px solid #eee;
+      font-size: 0.9em;
+    }
+    
+    .source {
+      margin-top: 1em;
+      color: #777;
+    }
+    
+    /* Simple responsiveness */
+    @media (max-width: 700px) {
+      body { padding: 10px; }
+      h1 { font-size: 1.8em; }
+      h2 { font-size: 1.5em; }
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
